@@ -25,9 +25,7 @@ This is a frontend web application built using React and Vite. The project focus
 <img width="1902" height="913" alt="image" src="https://github.com/user-attachments/assets/fd75bcec-78ca-4da2-8ef1-c3d0e13ee260" />
 
 ## 🎥 Project Demo Video
-[Click here to watch the gamified demo](https://1drv.ms/v/c/f27581e6ec46dbc4/IQBQkdt4vKPxTYS4MtgfgulwAV-luZs4uEyQ6AaOCFIKvJ0?e=FeksMm)
-and 
-[Click here to watch the full demo](https://1drv.ms/v/c/f27581e6ec46dbc4/IQDlPiVoHd4pToJGay4DRIEEAcrOUitdndRTW2E9pbrlzQk?e=t1fxwd)
+[Click here to watch the demo](https://1drv.ms/v/c/f27581e6ec46dbc4/IQAMOWYgfZvATYxift4v6YE8AQ-V7iotCYJKgDQTb07V5_U?e=k0aU4j)
 
 ## ▶️ How to Run the Project
 
