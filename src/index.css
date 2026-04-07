@@ -1,0 +1,32 @@
+/* src/index.css */
+
+@import "tailwindcss";
+
+@layer base {
+  html,body,
+  #root {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* Smooth random floating animation */
+@keyframes floatRandom {
+  0% {
+    transform: translate3d(0, 0, 0) rotate(0deg);
+  }
+  25% {
+    transform: translate3d(-20px, 30px, 0) rotate(10deg);
+  }
+  50% {
+    transform: translate3d(20px, -20px, 0) rotate(-10deg);
+  }
+  75% {
+    transform: translate3d(-15px, -25px, 0) rotate(6deg);
+  }
+  100% {
+    transform: translate3d(0, 0, 0) rotate(0deg);
+  }
+}
